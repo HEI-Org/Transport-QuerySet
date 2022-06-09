@@ -24,7 +24,7 @@ psql -U postgres -d transport -f GenerateDatabase.sql
 - Run `InsertDummyData.sql` to insert dummy data to the database
 
 ```shell
-psql -U postgres -d transport -f GenerateDatabase.sql
+psql -U postgres -d transport -f InsertDummyData.sql
 ```
 
 ## Models

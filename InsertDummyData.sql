@@ -32,6 +32,28 @@ insert into voyage (id_voyage, jour_depart, heure_depart, id_ville_depart, id_vi
 insert into voyage (id_voyage, jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values (19, '2020-09-14', '8:46 AM', 3, 10);
 insert into voyage (id_voyage, jour_depart, heure_depart, id_ville_depart, id_ville_arrivee) values (20, '2021-11-26', '9:22 PM', 1, 2);
 
+-- insert offre
+insert into offre (id_offre, tarif, type) values (1, 62520, 'Premium');
+insert into offre (id_offre, tarif, type) values (2, 35385, 'Classic');
+insert into offre (id_offre, tarif, type) values (3, 92864, 'VIP');
+insert into offre (id_offre, tarif, type) values (4, 59911, 'Lite');
+insert into offre (id_offre, tarif, type) values (5, 43517, 'Lite');
+insert into offre (id_offre, tarif, type) values (6, 83666, 'Premium');
+insert into offre (id_offre, tarif, type) values (7, 41605, 'Lite');
+insert into offre (id_offre, tarif, type) values (8, 30389, 'Classic');
+insert into offre (id_offre, tarif, type) values (9, 95117, 'VIP');
+insert into offre (id_offre, tarif, type) values (10, 40639, 'Lite');
+insert into offre (id_offre, tarif, type) values (11, 63505, 'Premium');
+insert into offre (id_offre, tarif, type) values (12, 68584, 'Premium');
+insert into offre (id_offre, tarif, type) values (13, 77580, 'Premium');
+insert into offre (id_offre, tarif, type) values (14, 84136, 'Premium');
+insert into offre (id_offre, tarif, type) values (15, 56468, 'Lite');
+insert into offre (id_offre, tarif, type) values (16, 72138, 'Premium');
+insert into offre (id_offre, tarif, type) values (17, 37272, 'Classic');
+insert into offre (id_offre, tarif, type) values (18, 37721, 'Classic');
+insert into offre (id_offre, tarif, type) values (19, 36307, 'Classic');
+insert into offre (id_offre, tarif, type) values (20, 59932, 'Lite');
+
 -- table passer_par
 insert into passer_par (id_ville, id_voyage) values (8, 6);
 insert into passer_par (id_ville, id_voyage) values (5, 14);
@@ -105,6 +127,88 @@ insert into passer_par (id_ville, id_voyage) values (7, 13);
 insert into passer_par (id_ville, id_voyage) values (1, 18);
 insert into passer_par (id_ville, id_voyage) values (2, 18);
 
+-- table passer_par
+insert into passer_par (id_ville, id_voyage) values (8, 6);
+insert into passer_par (id_ville, id_voyage) values (5, 14);
+insert into passer_par (id_ville, id_voyage) values (10, 8);
+insert into passer_par (id_ville, id_voyage) values (9, 13);
+insert into passer_par (id_ville, id_voyage) values (5, 2);
+insert into passer_par (id_ville, id_voyage) values (10, 6);
+insert into passer_par (id_ville, id_voyage) values (2, 2);
+insert into passer_par (id_ville, id_voyage) values (7, 20);
+insert into passer_par (id_ville, id_voyage) values (4, 18);
+insert into passer_par (id_ville, id_voyage) values (5, 13);
+insert into passer_par (id_ville, id_voyage) values (2, 11);
+insert into passer_par (id_ville, id_voyage) values (3, 14);
+insert into passer_par (id_ville, id_voyage) values (6, 7);
+insert into passer_par (id_ville, id_voyage) values (8, 2);
+insert into passer_par (id_ville, id_voyage) values (5, 18);
+insert into passer_par (id_ville, id_voyage) values (5, 12);
+insert into passer_par (id_ville, id_voyage) values (9, 1);
+insert into passer_par (id_ville, id_voyage) values (6, 14);
+insert into passer_par (id_ville, id_voyage) values (8, 2);
+insert into passer_par (id_ville, id_voyage) values (10, 18);
+insert into passer_par (id_ville, id_voyage) values (9, 16);
+insert into passer_par (id_ville, id_voyage) values (4, 7);
+insert into passer_par (id_ville, id_voyage) values (1, 3);
+insert into passer_par (id_ville, id_voyage) values (7, 15);
+insert into passer_par (id_ville, id_voyage) values (9, 9);
+insert into passer_par (id_ville, id_voyage) values (3, 17);
+insert into passer_par (id_ville, id_voyage) values (9, 14);
+insert into passer_par (id_ville, id_voyage) values (2, 14);
+insert into passer_par (id_ville, id_voyage) values (3, 4);
+insert into passer_par (id_ville, id_voyage) values (9, 6);
+insert into passer_par (id_ville, id_voyage) values (6, 12);
+insert into passer_par (id_ville, id_voyage) values (4, 17);
+insert into passer_par (id_ville, id_voyage) values (9, 13);
+insert into passer_par (id_ville, id_voyage) values (4, 5);
+insert into passer_par (id_ville, id_voyage) values (6, 13);
+insert into passer_par (id_ville, id_voyage) values (5, 6);
+insert into passer_par (id_ville, id_voyage) values (6, 8);
+insert into passer_par (id_ville, id_voyage) values (8, 8);
+insert into passer_par (id_ville, id_voyage) values (9, 8);
+insert into passer_par (id_ville, id_voyage) values (1, 4);
+insert into passer_par (id_ville, id_voyage) values (2, 6);
+insert into passer_par (id_ville, id_voyage) values (4, 13);
+insert into passer_par (id_ville, id_voyage) values (2, 19);
+insert into passer_par (id_ville, id_voyage) values (9, 10);
+insert into passer_par (id_ville, id_voyage) values (7, 3);
+insert into passer_par (id_ville, id_voyage) values (10, 18);
+insert into passer_par (id_ville, id_voyage) values (2, 9);
+insert into passer_par (id_ville, id_voyage) values (7, 12);
+insert into passer_par (id_ville, id_voyage) values (6, 3);
+insert into passer_par (id_ville, id_voyage) values (6, 9);
+insert into passer_par (id_ville, id_voyage) values (5, 17);
+insert into passer_par (id_ville, id_voyage) values (8, 4);
+insert into passer_par (id_ville, id_voyage) values (4, 13);
+insert into passer_par (id_ville, id_voyage) values (8, 13);
+insert into passer_par (id_ville, id_voyage) values (3, 7);
+insert into passer_par (id_ville, id_voyage) values (10, 10);
+insert into passer_par (id_ville, id_voyage) values (3, 6);
+insert into passer_par (id_ville, id_voyage) values (3, 1);
+insert into passer_par (id_ville, id_voyage) values (2, 10);
+insert into passer_par (id_ville, id_voyage) values (1, 13);
+insert into passer_par (id_ville, id_voyage) values (10, 16);
+insert into passer_par (id_ville, id_voyage) values (1, 13);
+insert into passer_par (id_ville, id_voyage) values (4, 17);
+insert into passer_par (id_ville, id_voyage) values (7, 1);
+insert into passer_par (id_ville, id_voyage) values (7, 11);
+insert into passer_par (id_ville, id_voyage) values (10, 1);
+insert into passer_par (id_ville, id_voyage) values (8, 14);
+insert into passer_par (id_ville, id_voyage) values (2, 12);
+insert into passer_par (id_ville, id_voyage) values (9, 1);
+insert into passer_par (id_ville, id_voyage) values (6, 9);
+insert into passer_par (id_ville, id_voyage) values (5, 1);
+insert into passer_par (id_ville, id_voyage) values (3, 19);
+insert into passer_par (id_ville, id_voyage) values (4, 3);
+insert into passer_par (id_ville, id_voyage) values (7, 9);
+insert into passer_par (id_ville, id_voyage) values (1, 19);
+insert into passer_par (id_ville, id_voyage) values (2, 4);
+insert into passer_par (id_ville, id_voyage) values (7, 13);
+insert into passer_par (id_ville, id_voyage) values (4, 5);
+insert into passer_par (id_ville, id_voyage) values (1, 18);
+insert into passer_par (id_ville, id_voyage) values (2, 18);
+
 -- insert vehicules
 insert into vehicules (id_vehicule, nombre_places, places_dispo, matricule)
 values (1,24, 0, '1236321');
@@ -137,6 +241,7 @@ insert into utiliser (id_vehicule, id_voyage) values (5, 4);
 insert into utiliser (id_vehicule, id_voyage) values (6, 10);
 insert into utiliser (id_vehicule, id_voyage) values (9, 6);
 insert into utiliser (id_vehicule, id_voyage) values (10, 1); 
+
 
 -- insert chauffeur
 insert into chauffeur (nom_complet, contact_chauffeur, mail_chauffeur, id_vehicule) values ('RAKOTONDRINA Paul', '033 12 365 15', 'ndrina@gmail.com', 1);
@@ -252,30 +357,27 @@ insert into client (nom_client, prenom_client, contact) values ('Jacquelynn', 'A
 insert into client (nom_client, prenom_client, contact) values ('Benetta', 'Weakley', '+261 339223982');
 insert into client (nom_client, prenom_client, contact) values ('Brooke', 'Bodemeaid', '+261 334598977');
 
-
--- insert offre
-insert into offre (id_offre, tarif, type) values (1, 62520, 'Premium');
-insert into offre (id_offre, tarif, type) values (2, 35385, 'Classic');
-insert into offre (id_offre, tarif, type) values (3, 92864, 'VIP');
-insert into offre (id_offre, tarif, type) values (4, 59911, 'Lite');
-insert into offre (id_offre, tarif, type) values (5, 43517, 'Lite');
-insert into offre (id_offre, tarif, type) values (6, 83666, 'Premium');
-insert into offre (id_offre, tarif, type) values (7, 41605, 'Lite');
-insert into offre (id_offre, tarif, type) values (8, 30389, 'Classic');
-insert into offre (id_offre, tarif, type) values (9, 95117, 'VIP');
-insert into offre (id_offre, tarif, type) values (10, 40639, 'Lite');
-insert into offre (id_offre, tarif, type) values (11, 63505, 'Premium');
-insert into offre (id_offre, tarif, type) values (12, 68584, 'Premium');
-insert into offre (id_offre, tarif, type) values (13, 77580, 'Premium');
-insert into offre (id_offre, tarif, type) values (14, 84136, 'Premium');
-insert into offre (id_offre, tarif, type) values (15, 56468, 'Lite');
-insert into offre (id_offre, tarif, type) values (16, 72138, 'Premium');
-insert into offre (id_offre, tarif, type) values (17, 37272, 'Classic');
-insert into offre (id_offre, tarif, type) values (18, 37721, 'Classic');
-insert into offre (id_offre, tarif, type) values (19, 36307, 'Classic');
-insert into offre (id_offre, tarif, type) values (20, 59932, 'Lite');
-
-
+--Table reserver
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (97, 11, 18, 5, '18/04/2022', 100000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (2, 15, 4, 14,'23/03/2022',700000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (68, 17, 14, 3, '05/09/2021', 275000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (49, 3, 6, 10, '06/09/2021',700000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (61, 13, 9, 7, '03/12/2021',100000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (43, 15, 8, 14, '06/06/2021', 250000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (40, 10, 4, 14, '06/05/2022', 275000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (89, 7, 1, 3, '22/10/2021',700000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (20, 5, 12, 13, '15/07/2021',700000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (56, 2, 4, 1, '27/12/2021', 100000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (25, 15, 13, 8, '16/12/2021',75000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (8, 20, 11, 3, '09/02/2022', 500000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (75, 6, 18, 16, '01/12/2021', 500000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (91, 14, 16, 11, '07/02/2022',100000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (42, 2, 3, 1,'02/11/2021',75000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (26, 13, 5, 23, '07/03/2022',500000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (55, 5, 13, 6, '23/05/2022', 100000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (8, 6, 15, 10, '25/06/2021', 400.000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (64, 6, 13, 20,'08/04/2022',250000);
+insert into reserver (id_client, id_offre, id_voyage, place, date_reservation, montant_paye) values (12, 10, 4, 9, '19/07/2021', 100000);
 
 --insert maintenance
 insert into maintenance (cout, nom_maintenance) values (288126, 'dolor sit');
@@ -376,3 +478,4 @@ insert into requerir (id_maintenance, id_vehicule) values (40, 5);
 insert into requerir (id_maintenance, id_vehicule) values (8, 6);
 insert into requerir (id_maintenance, id_vehicule) values (35, 7);
 insert into requerir (id_maintenance, id_vehicule) values (24, 10);
+
