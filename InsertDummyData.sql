@@ -55,3 +55,12 @@ insert into utiliser (id_vehicule, id_voyage) values (5, 4);
 insert into utiliser (id_vehicule, id_voyage) values (6, 10);
 insert into utiliser (id_vehicule, id_voyage) values (9, 6);
 insert into utiliser (id_vehicule, id_voyage) values (10, 1);
+
+-- insert passer par
+insert into passer_par (id_ville, id_voyage) values (2,130);
+insert into passer_par (id_ville, id_voyage) values (10,130);
+insert into passer_par (id_ville, id_voyage) values (6,130);
+insert into passer_par (id_ville, id_voyage) values (1,130);
+insert into passer_par (id_ville, id_voyage) values (4,17);
+insert into passer_par (id_ville, id_voyage) values (5,17);
+insert into passer_par (id_ville, id_voyage) values (3,17);
