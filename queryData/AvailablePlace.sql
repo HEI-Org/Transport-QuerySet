@@ -1,0 +1,1 @@
+-- Places disponibles dans un véhicule pour un voyage.
