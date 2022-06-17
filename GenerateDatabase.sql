@@ -24,7 +24,8 @@ CREATE TABLE chauffeur(
 CREATE TABLE maintenance(
     id_maintenance bigserial PRIMARY KEY,
     cout int check(cout >= 0),
-    nom_maintenance VARCHAR(100)
+    nom_maintenance VARCHAR(100),
+    date_maintenance DATE
 );
 
 -- table ville 
