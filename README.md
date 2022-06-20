@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Tsirimaholy"><img src="https://avatars.githubusercontent.com/u/72337259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>P3RM1_D3N1ED</b></sub></a><br /><a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=Tsirimaholy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Rakotonirinaonjaniaina"><img src="https://avatars.githubusercontent.com/u/99240104?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rakotonirina Onjaniaina</b></sub></a><br /><a href="#data-Rakotonirinaonjaniaina" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/YlanNaly"><img src="https://avatars.githubusercontent.com/u/99525156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ylan </b></sub></a><br /><a href="#data-YlanNaly" title="Data">🔣</a></td>
   </tr>
 </table>
 
