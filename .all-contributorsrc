@@ -15,7 +15,6 @@
       ]
     },
     {
-     
       "login": "YlanNaly",
       "name": "Ylan ",
       "avatar_url": "https://avatars.githubusercontent.com/u/99525156?v=4",
@@ -34,8 +33,8 @@
         "data",
         "code"
       ]
-     }, 
-     {
+    },
+    {
       "login": "Ranomenjanahary",
       "name": "Ranomenjanahary",
       "avatar_url": "https://avatars.githubusercontent.com/u/99523507?v=4",
@@ -44,7 +43,17 @@
         "data",
         "code"
       ]
-     }
+    },
+    {
+      "login": "Rakotonirinaonjaniaina",
+      "name": "Rakotonirina Onjaniaina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99240104?v=4",
+      "profile": "https://github.com/Rakotonirinaonjaniaina",
+      "contributions": [
+        "code",
+        "data"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "Transport-QuerySet",
