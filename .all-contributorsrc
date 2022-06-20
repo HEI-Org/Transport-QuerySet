@@ -23,6 +23,17 @@
         "data"
       ]
     }
+    ,
+    {
+      "login": "Rakotonirinaonjaniaina",
+      "name": "Rakotonirina Onjaniaina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99240104?v=4",
+      "profile": "https://github.com/Rakotonirinaonjaniaina",
+
+      "contributions": [
+        "data"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "Transport-QuerySet",
