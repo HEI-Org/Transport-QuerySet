@@ -15,10 +15,7 @@
       ]
     },
     {
-      "login": "Ranomenjanahary",
-      "name": "Ranomenjanahary",
-      "avatar_url": "https://avatars.githubusercontent.com/u/99523507?v=4",
-      "profile": "https://github.com/Ranomenjanahary",
+     
       "login": "YlanNaly",
       "name": "Ylan ",
       "avatar_url": "https://avatars.githubusercontent.com/u/99525156?v=4",
@@ -34,6 +31,16 @@
       "name": "fanjasoa18",
       "avatar_url": "https://avatars.githubusercontent.com/u/99532034?v=4",
       "profile": "https://github.com/fanjasoa18",
+      "contributions": [
+        "data",
+        "code"
+      ]
+     }, 
+     {
+      "login": "Ranomenjanahary",
+      "name": "Ranomenjanahary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99523507?v=4",
+      "profile": "https://github.com/Ranomenjanahary",
       "contributions": [
         "data",
         "code"
