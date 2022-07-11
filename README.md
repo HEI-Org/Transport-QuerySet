@@ -1,6 +1,6 @@
 # Transport-QuerySet
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 QuerySet for a Transport DB
@@ -44,6 +44,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Tsirimaholy"><img src="https://avatars.githubusercontent.com/u/72337259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>P3RM1_D3N1ED</b></sub></a><br /><a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=Tsirimaholy" title="Documentation">📖</a> <a href="#mentoring-Tsirimaholy" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="https://github.com/YlanNaly"><img src="https://avatars.githubusercontent.com/u/99525156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ylan </b></sub></a><br /><a href="#data-YlanNaly" title="Data">🔣</a> <a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=YlanNaly" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fanjasoa18"><img src="https://avatars.githubusercontent.com/u/99532034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fanjasoa18</b></sub></a><br /><a href="#data-fanjasoa18" title="Data">🔣</a> <a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=fanjasoa18" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Ranomenjanahary"><img src="https://avatars.githubusercontent.com/u/99523507?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ranomenjanahary</b></sub></a><br /><a href="#data-Ranomenjanahary" title="Data">🔣</a> <a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=Ranomenjanahary" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Rakotonirinaonjaniaina"><img src="https://avatars.githubusercontent.com/u/99240104?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rakotonirina Onjaniaina</b></sub></a><br /><a href="https://github.com/HEI-Org/Transport-QuerySet/commits?author=Rakotonirinaonjaniaina" title="Code">💻</a> <a href="#data-Rakotonirinaonjaniaina" title="Data">🔣</a></td>
   </tr>
 </table>
 
